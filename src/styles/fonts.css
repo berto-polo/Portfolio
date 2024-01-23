@@ -1,0 +1,133 @@
+/*********** OUTWARD ***********/
+@font-face {
+    font-family: 'Outward';
+    src: url('../assets/fonts/outward/block/outward-block-webfont.eot');
+    src: url('../assets/fonts/outward/block/outward-block-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/outward/block/outward-block-webfont.woff2') format('woff2'),
+         url('../assets/fonts/outward/block/outward-block-webfont.woff') format('woff'),
+         url('../assets/fonts/outward/block/outward-block-webfont.ttf') format('truetype'),
+         url('../assets/fonts/outward/block/outward-block-webfont.svg#outwardblock') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Outward';
+    src: url('../assets/fonts/outward/borders/outward-borders-webfont.eot');
+    src: url('../assets/fonts/outward/borders/outward-borders-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/outward/borders/outward-borders-webfont.woff2') format('woff2'),
+         url('../assets/fonts/outward/borders/outward-borders-webfont.woff') format('woff'),
+         url('../assets/fonts/outward/borders/outward-borders-webfont.ttf') format('truetype'),
+         url('../assets/fonts/outward/borders/outward-borders-webfont.svg#outwardborders') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Outward';
+    src: url('../assets/fonts/outward/round/outward-round-webfont.eot');
+    src: url('../assets/fonts/outward/round/outward-round-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/outward/round/outward-round-webfont.woff2') format('woff2'),
+         url('../assets/fonts/outward/round/outward-round-webfont.woff') format('woff'),
+         url('../assets/fonts/outward/round/outward-round-webfont.ttf') format('truetype'),
+         url('../assets/fonts/outward/round/outward-round-webfont.svg#outwardround') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/*********** MURMURE ***********/
+@font-face {
+    font-family: 'Murmure';
+    src: url('../assets/fonts/lemurmure/LeMurmure-Regular.eot');
+    src: url('../assets/fonts/lemurmure/LeMurmure-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/lemurmure/LeMurmure-Regular.woff') format('woff'),
+         url('../assets/fonts/lemurmure/LeMurmure-Regular.woff2') format('woff2'),
+         url('../assets/fonts/lemurmure/le-murmure.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*********** SUBJECTIVITY ***********/
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/black/Subjectivity-Black.otf');
+    src: url('../assets/fonts/subjectivity/black/Subjectivity-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/bold/Subjectivity-Bold.otf');
+    src: url('../assets/fonts/subjectivity/bold/Subjectivity-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/extra-bold/Subjectivity-ExtraBold.otf');
+    src: url('../assets/fonts/subjectivity/extra-bold/Subjectivity-ExtraBold.woff2') format('woff2');
+    font-weight: bolder;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/regular/Subjectivity-Regular.otf');
+    src: url('../assets/fonts/subjectivity/regular/Subjectivity-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/medium/Subjectivity-Medium.otf');
+    src: url('../assets/fonts/subjectivity/medium/Subjectivity-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Subjectivity";
+    src: url('../assets/fonts/subjectivity/thin/Subjectivity-Thin.otf');
+    src: url('../assets/fonts/subjectivity/thin/Subjectivity-Thin.woff2') format('woff2');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+/*********** PILOWLAVA ***********/
+@font-face {
+    font-family: 'Pilowlava';
+    src: url('../assets/fonts/pilowlava/Pilowlava-Regular.eot');
+    src: url('../assets/fonts/pilowlava/Pilowlava-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/pilowlava/Pilowlava-Regular.woff2') format('woff2'),
+         url('../assets/fonts/pilowlava/Pilowlava-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*********** IBMPLEX ***********/
+@font-face {
+    font-family: 'IBMplex';
+    src: url('../assets/fonts/IBMPlex/bold/IBMPlexMono-Bold.ttf') format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMplex';
+    src: url('../assets/fonts/IBMPlex/medium/IBMPlexMono-Medium.ttf') format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMplex';
+    src: url('../assets/fonts/IBMPlex/regular/IBMPlexMono-Regular.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMplex';
+    src: url('../assets/fonts/IBMPlex/semi-bold/') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'IBMplex';
+    src: url('../assets/fonts/IBMPlex/thin/IBMPlexMono-Thin.ttf') format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}

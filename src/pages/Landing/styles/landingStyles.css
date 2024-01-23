@@ -1,0 +1,101 @@
+@import url(./animation.css);
+
+#presentation {
+  font-family: "IBMplex";
+  font-style: normal;
+  font-weight: 100;
+  font-size: 8em;
+}
+
+.front::before {
+  font-family: "Murmure";
+  content: "";
+  animation: type-1 14s infinite;
+  background: -webkit-linear-gradient(-45deg, rgb(188, 12, 241), rgb(212, 4, 4));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.front::after {
+  content: "";
+  border-right: 2px solid red;
+  animation: blink-1 14s ease-in-out infinite;
+}
+
+.back::before {
+  font-family: "Outward";
+  content: "";
+  font-size: 1.3em;
+  animation: type-2 14s infinite;
+  background: -webkit-linear-gradient(30deg, rgb(13, 196, 202), rgb(4, 35, 212));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.back::after {
+  content: "";
+  border-right: 2px solid blue;
+  animation: blink-2 14s ease-in-out infinite;
+}
+
+.creativo::before {
+  font-family: "Subjectivity";
+  font-weight: bold;
+  content: "";
+  animation: type-3 14s infinite;
+  background: -webkit-linear-gradient(180deg, rgb(230,134,255), rgb(230,149,38));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.creativo::after {
+  content: "";
+  border-right: 2px solid pink;
+  animation: blink-3 14s ease-in-out infinite;
+}
+
+.dinamico::before {
+  font-family: "Pilowlava";
+  font-weight: bolder;
+  content: "";
+  animation: type-4 14s infinite;
+  background: -webkit-linear-gradient(52deg, rgb(223,253,29), rgb(93, 139, 6));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.dinamico::after {
+  content: "";
+  border-right: 2px solid greenyellow;
+  animation: blink-4 14s ease-in-out infinite;
+}
+
+.polo::before {
+  font-family: "IBMplex";
+  font-weight: bolder;
+  content: "";
+  animation: type-5 14s infinite;
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.polo::after {
+  content: "";
+  border-right: 2px solid aquamarine;
+  animation: blink-5 14s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
