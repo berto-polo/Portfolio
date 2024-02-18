@@ -67,7 +67,8 @@ return (
 			</div>
 
 			<div className="main">
-				<h1>¡Hola! 👋🏻</h1>
+				<h1 className="description">Sobre mí</h1>
+				<h2>¡Hola!</h2>
 				<p>
 					Soy Berto, desarrollador web full-stack.
 				</p>

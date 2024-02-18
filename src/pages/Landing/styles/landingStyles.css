@@ -37,6 +37,12 @@
   z-index: 1;
 }
 
+.description {
+  font-family: Subjectivity;
+  text-align: center;
+  font-size: 2em;
+}
+
 .lalala {
   position: relative;
   border: 2px solid cad;

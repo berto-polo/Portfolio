@@ -102,31 +102,31 @@
 
 /*********** IBMPLEX ***********/
 @font-face {
-    font-family: 'IBMplex';
+    font-family: 'IBMPlex';
     src: url('../assets/fonts/IBMPlex/bold/IBMPlexMono-Bold.ttf') format("truetype");
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
-    font-family: 'IBMplex';
+    font-family: 'IBMPlex';
     src: url('../assets/fonts/IBMPlex/medium/IBMPlexMono-Medium.ttf') format("truetype");
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
-    font-family: 'IBMplex';
+    font-family: 'IBMPlex';
     src: url('../assets/fonts/IBMPlex/regular/IBMPlexMono-Regular.ttf') format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'IBMplex';
+    font-family: 'IBMPlex';
     src: url('../assets/fonts/IBMPlex/semi-bold/') format("truetype");
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
-    font-family: 'IBMplex';
+    font-family: 'IBMPlex';
     src: url('../assets/fonts/IBMPlex/thin/IBMPlexMono-Thin.ttf') format("truetype");
     font-weight: 300;
     font-style: normal;
