@@ -66,7 +66,7 @@ return (
 			<div className="main">
 				<h1>¡Hola!</h1>
 				<p>
-					Antes que nada, agradecerte que te hayas tomado el tiempo de pasar por
+					Soy Berto, desarrollador web full-stack
 				</p>
 
 			</div>
