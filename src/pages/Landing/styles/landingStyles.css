@@ -21,7 +21,7 @@
   height: 100vh;
   overflow: hidden;
 
-  background-color: rgb(37, 24, 24);
+  background-color: rgb(17, 7, 10);
   
   display: flex;
   flex-direction: column;
@@ -32,9 +32,28 @@
 
 .main {
   height: calc(100vh - 50px);
-  width: 80%;
+  width: 90%;
   border: 1px solid cadetblue;
   z-index: 1;
+  display: flex;
+}
+
+.main__text {
+  padding-top: 20%;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  text-align: center;
+}
+
+
+.main img {
+  position: absolute;
+  right: 0%;
+  transform: translateY(-50%);
+  top: 50%;
+  width: 40%;
+
 }
 
 .description {
@@ -44,8 +63,23 @@
 }
 
 .lalala {
-  position: relative;
-  border: 2px solid cad;
-  height: 150vh;
+  position: sticky;
+  top: 56px;
+  background-color: rgba(17, 17, 17, 0.281);
+  backdrop-filter: blur(40px);
+  height: calc(100vh - 56px);
+  z-index: 5;
+}
+
+.lololo {
+  position: sticky;
+  top: 50px;
+  background: linear-gradient(125deg,
+    rgba(0, 0, 0, 0.200) 0%,
+    rgba(2,0,36,0.200) 29%,
+    rgba(0,212,255,0.200) 100%);
+  backdrop-filter: blur(40px);
+  border: 2px solid black;
+  height: 200vh;
   z-index: 5;
 }

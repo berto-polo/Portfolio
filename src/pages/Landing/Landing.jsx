@@ -37,7 +37,7 @@ return (
 					<span className="flower">
 						<img src="../../../public/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">¿Hablamos?</span>
+					<a href="#contact" className="scrolling-element">¿Hablamos?</a>
 					<span className="flower">
 						<img src="../../../public/flower40.svg" alt="" />
 					</span>
@@ -67,23 +67,33 @@ return (
 			</div>
 
 			<div className="main">
-				<h1 className="description">Sobre mí</h1>
-				<h2>¡Hola!</h2>
-				<p>
-					Soy Berto, desarrollador web full-stack.
-				</p>
-				<p>
-					Desde siempre he sido un apasionado de la tecnología pero
-					nunca me atreví a dar el paso a este sector porque no pensaba
-					que fuese para mí... Hasta ahora. <br/>
-					hola
-				</p>
+				<div className="main__text">
+					<h1 className="description">
+						¡Hola!
+					</h1>
+					<h2>
+						Soy Berto, desarrollador web full-stack.
+					</h2>
+					<p>
+						Desde siempre he sido un apasionado de la tecnología pero
+						nunca me atreví a dar el paso a este sector porque no pensaba
+						que fuese para mí... Hasta ahora. <br/>
+						
+					</p>
+				</div>
+				<div className="picture">
+					<img src="../../../public/self.png" alt="" />
+				</div>
 
 			</div>
 
 
 		</section>
 		<section className="lalala">
+			lalalalala
+			<h1>Hola puti</h1>
+		</section>
+		<section className="lololo" id="contact">
 			lalalalala
 			<h1>Hola puti</h1>
 		</section>
