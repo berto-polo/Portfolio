@@ -91,11 +91,11 @@ return (
 		</section>
 		<section className="lalala">
 			lalalalala
-			<h1>Hola puti</h1>
+			<h1>Licky Mickey</h1>
 		</section>
 		<section className="lololo" id="contact">
 			lalalalala
-			<h1>Hola puti</h1>
+			<h1>Sticky tricky</h1>
 		</section>
 	</>
 )
