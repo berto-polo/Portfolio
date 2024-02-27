@@ -21,47 +21,47 @@ return (
 
 			<div className="scrolling-banner">
 				<div className="text">
-					<span className="scrolling-element">Bienvedido a mi portfolio</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Un placer conocerte</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Gracias por venir</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Disfruta la visita</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<a href="#contact" className="scrolling-element">¿Hablamos?</a>
+					<span href="#contact" className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
 				</div>
 				<div className="text">
-				<span className="scrolling-element">Bienvedido a mi portfolio</span>
+				<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Un placer conocerte</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Gracias por venir</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>
-					<span className="scrolling-element">Disfruta la visita</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>					
-					<span className="scrolling-element">¿Hablamos?</span>
+					<span className="scrolling-element">En construcción</span>
 					<span className="flower">
-						<img src="../../../public/flower40.svg" alt="" />
+						<img src="/flower40.svg" alt="" />
 					</span>					
 				</div>
 			</div>
@@ -82,21 +82,14 @@ return (
 					</p>
 				</div>
 				<div className="picture">
-					<img src="../../../public/self.png" alt="" />
+					<img src="self.png" alt="" />
 				</div>
 
 			</div>
 
 
 		</section>
-		<section className="lalala">
-			lalalalala
-			<h1>Licky Mickey</h1>
-		</section>
-		<section className="lololo" id="contact">
-			lalalalala
-			<h1>Sticky tricky</h1>
-		</section>
+		
 	</>
 )
 }

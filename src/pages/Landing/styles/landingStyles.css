@@ -32,8 +32,7 @@
 
 .main {
   height: calc(100vh - 50px);
-  width: 90%;
-  border: 1px solid cadetblue;
+  width: 85%;
   z-index: 1;
   display: flex;
 }
@@ -62,6 +61,7 @@
   font-size: 2em;
 }
 
+/*
 .lalala {
   position: sticky;
   top: 56px;
@@ -83,3 +83,4 @@
   height: 200vh;
   z-index: 5;
 }
+*/
